@@ -1,0 +1,70 @@
+{
+  "name": "app",
+  "homepage": ".",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "ag-grid-community": "^26.0.0",
+    "ag-grid-react": "^26.0.0",
+    "axios": "^0.20.0",
+    "chart.js": "^3.5.1",
+    "dotenv": "^8.2.0",
+    "i18next": "^19.8.2",
+    "moment": "^2.29.1",
+    "react": "^16.13.1",
+    "react-adsense": "^0.1.0",
+    "react-autosuggest": "^10.0.3",
+    "react-big-calendar": "^0.35.0",
+    "react-chartjs-2": "^3.0.4",
+    "react-chat-elements": "^10.12.0",
+    "react-dom": "^16.13.1",
+    "react-dom-factories": "^1.0.2",
+    "react-geocode": "^0.2.2",
+    "react-google-calendar-api": "^1.4.0",
+    "react-google-maps": "^9.4.5",
+    "react-google-places-autocomplete": "^3.0.0",
+    "react-i18next": "^11.7.3",
+    "react-image-gallery": "^1.0.8",
+    "react-month-year-picker": "^1.0.1",
+    "react-number-format": "^4.4.1",
+    "react-places-autocomplete": "^7.3.0",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-select": "^4.3.1",
+    "react-social-login": "^3.4.10",
+    "react-switch": "^5.0.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "rodal": "^1.8.1",
+    "socket.io-client": "^3.0.1",
+    "sweetalert2": "^10.6.1",
+    "universal-cookie": "^4.0.4",
+    "validator": "^13.1.17"
+  },
+  "engine": "12.18.2",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

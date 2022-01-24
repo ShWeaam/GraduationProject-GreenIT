@@ -1,0 +1,14 @@
+{
+  "appName": "Green School",
+  "port": 4000,
+  "saltRounds": 10,
+  "fileSizeLimitMBs": 5,
+
+  "cookieName": "gs_session",
+  "cookieAgeInSeconds": 259200,
+  "tokenName": "gs_auth",
+
+  "appUrl": "http://localhost:3000/",
+  "resetPasswordUrl": "http://localhost:3000/rp",
+  "accountActivationUrl": "http://localhost:3000/activate"
+}
